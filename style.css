@@ -56,3 +56,10 @@ a:hover {
 li {
 	list-style-type: none;
 }
+
+a:hover {
+	display: flex;
+	flex-direction: column;
+	height: 52px;
+	justify-content: center;
+}
